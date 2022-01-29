@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Kanotra</h1>
-<h3 align="center">A passionate MERN stack developer from India with 1 year practical expeeience in making responsive websites,React,Redux,Javascript/ES6,Bootstrap5.</h3>
+<h3 align="center">A passionate MERN stack developer from India with 1 year practical experience in making responsive websites,React,Redux,Javascript/ES6,Bootstrap5.</h3>
 
 - 🌱 I’m currently learning **Advanced React concepts**
 
